@@ -1,9 +1,11 @@
-# 设置Activity
+# PreferenceActivity
 
-## 运行效果
+## 安卓第五次实验
 
-![](https://ws1.sinaimg.cn/large/006dRdovgy1fqx1ug890nj30cb0msmzi.jpg)
+![](https://i.loli.net/2018/05/14/5af8fe5557644.jpg)
 
-## 参考链接
+![](https://i.loli.net/2018/05/14/5af8fe620d3bb.png)
 
-- https://developer.android.google.cn/guide/topics/ui/settings.html
+![](https://i.loli.net/2018/05/14/5af8fe6dd2320.jpg)
+
+![](https://i.loli.net/2018/05/14/5af8fe7b2ec6f.jpg)
